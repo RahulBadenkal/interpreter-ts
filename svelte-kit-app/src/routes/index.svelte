@@ -27,7 +27,7 @@
 	</h2>
 
 	<Counter />
-  <div class="mt-4">Here with margin top 16px with tailwind</div>
+  <div class="mt-4">Here with margin top 16px with tailwindcss</div>
 </section>
 
 <style>
